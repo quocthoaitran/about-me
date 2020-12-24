@@ -1,0 +1,48 @@
+.about-container {
+  width: 100%;
+  background-color: blanchedalmond;
+  opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 50px 0;
+  transition: all 2s;
+}
+
+.about-title {
+  text-align: center;
+  margin: 10px auto;
+  color: rgb(104, 104, 104) !important;
+  font-size: 50px !important;
+}
+
+.about-avatar {
+  text-align: center;
+  margin: auto;
+}
+
+.about-information {
+  margin: auto;
+}
+
+.about-information-item * {
+  height: 10%;
+  font-size: 25px;
+  font-weight: 200;
+  color: rgb(64, 112, 58) !important;
+}
+
+.about-icon {
+  /* text-align: center; */
+  color: rgb(104, 104, 104);
+  font-size: 100px;
+}
+
+.about-avatar {
+  width: 20vmax !important;
+  height: 20vmax !important;
+}
+
+/* about-information-item > * {
+  color: rgb(252, 32, 16) !important;
+} */

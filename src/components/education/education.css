@@ -1,0 +1,55 @@
+.education-container {
+  width: 100%;
+  background-color: #242a35;
+  opacity: 0.8;
+  padding: 20px;
+}
+
+.education-title {
+  text-align: center;
+  margin: 20px auto;
+  color: white !important;
+  font-size: 50px !important;
+}
+
+.education-icon {
+  font-size: 100px;
+  color: white;
+  display: block;
+  margin: 0 auto;
+}
+
+.education-time-line-container {
+  text-align: center;
+}
+
+.education-time-line * {
+  font-size: 30px;
+  color: white;
+}
+
+.education-skills-container {
+  /* color: white !important; */
+  /* font-size: 30px; */
+  text-align: center;
+  padding: 10px;
+}
+
+.education-skill-set * {
+  color: white !important;
+  /* animation: animate-positive 2s; */
+  /* padding: 5px; */
+}
+
+/* .education-skill-progress {
+  animation: animate-positive 2s;
+  display: block;
+  transition: 1s ease;
+  transition-delay: 0.5s;
+} */
+
+@keyframes animate-positive {
+  0% {
+      width: 0;
+  }
+}

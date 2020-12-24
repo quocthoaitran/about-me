@@ -1,0 +1,45 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+  margin: auto;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  background-color: #242a35;
+  opacity: 0.8;
+  transition: all 2s;
+}
+
+.home-career {
+  font-size: 30px;
+  font-weight: 100;
+  width: auto;
+  font-style: italic;
+  color: rgb(223, 218, 248) !important;
+}
+
+.home-full-name {
+  font-size: 8vw;
+  font-weight: bold;
+  color: white;
+}
+
+.home-description {
+  width: 40%;
+  margin: 0 auto;
+  color: white !important;
+  max-height: 20%;
+  overflow: hidden;
+}
+
+.home-btn-download {
+  border: 1px solid #ff9800 !important;
+  width: fit-content;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: #ff9800 !important;
+  padding: 12px 25px;
+  height: auto !important;
+}

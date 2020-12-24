@@ -1,0 +1,35 @@
+.contact-container {
+  width: 100%;
+  text-align: center;
+  background-color: #242a35;
+  padding: 50px 0;
+  opacity: 0.8;
+}
+
+.contact-icon {
+  font-size: 100px;
+  color: white;
+}
+
+.contact-title {
+  display: block;
+  color: white;
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.contact-component {
+  width: 80%;
+  margin: 0 auto !important;
+}
+
+.contact-item-icon {
+  font-size: 50px;
+  color: white;
+}
+
+.contact-item-description {
+  display: block;
+  font-size: 30px;
+  color: white;
+}

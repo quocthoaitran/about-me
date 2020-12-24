@@ -1,0 +1,28 @@
+.header {
+  position: fixed;
+  width: 100%;
+  /* top: 0; */
+  display: flex;
+  z-index: 999;
+}
+
+.header-logo {
+  display: inline;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: red;
+}
+
+.header-container {
+  width: 70%;
+  display: inline-block;
+  height: auto;
+}
+
+.header-logo {
+  text-transform: uppercase;
+}
+
+.header-menu {
+  text-align: end !important;
+}
